@@ -1,0 +1,29 @@
+html {
+  background-color: lightgreen;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+table{
+  width: 70%;
+  margin: auto;
+  font-family: Comfortaa;
+  background-color: lightblue;
+}
+
+thead {
+  text-align: center;
+  background-color: white;
+}
+
+tr {
+  height: 50px;
+}
+
+h2 {
+  font-weight: 800;
+}
